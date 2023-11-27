@@ -1,0 +1,7 @@
+pip install pytransit
+pip install astropy
+pip install photutils
+pip install ipywidgets
+pip install matplotlib
+pip install tqdm
+pip install numpy
